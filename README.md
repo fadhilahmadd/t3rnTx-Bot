@@ -21,7 +21,7 @@ transfer token antarjaringan dengan cepat dan efisien.
 1. Clone repository ini ke lokal Anda:
 
    ```bash
-   git clone https://github.com/AI-EXC/t3rnTx-bot.git
+   git clone https://github.com/fadhilahmadd/t3rnTx-bot.git
    ```
 
 2. Masuk ke direktori proyek:
